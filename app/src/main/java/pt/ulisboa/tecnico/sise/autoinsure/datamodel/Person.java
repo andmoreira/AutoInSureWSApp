@@ -1,5 +1,5 @@
 package pt.ulisboa.tecnico.sise.autoinsure.datamodel;
-
+//ola
 import java.io.Serializable;
 
 public class Person implements Serializable {
